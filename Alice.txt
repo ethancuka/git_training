@@ -16,3 +16,6 @@ This is a sixth line added on my instance that I'll stash.
 Now I've resolved the merge conflict between the two
 
 This is a seventh line to create even more conflict!
+
+More changes
+even more changes
