@@ -9,3 +9,5 @@ This is a fourth line added after Patrick was created in a separate branch
 This is a fifth line added from the repo online instead of the one on my instance.
 
 This is a sixth line because I didn't read ahead and pulled the fifth line before reading that we were supposed to try out Stash first.
+
+This is a seventh line to create even more conflict!
