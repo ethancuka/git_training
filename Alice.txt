@@ -5,3 +5,5 @@ And now Ethan has made some changes to Alice in a branch called change_alice whi
 This is a third line added after master and change_alice were merged
 
 This is a fourth line added after Patrick was created in a separate branch
+
+This is a fifth line added from the repo online instead of the one on my instance
