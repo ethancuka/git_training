@@ -3,3 +3,5 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 And now Ethan has made some changes to Alice in a branch called change_alice which will be merged later
 
 This is a third line added after master and change_alice were merged
+
+This is a fourth line added after Patrick was created in a separate branch
