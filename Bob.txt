@@ -1,1 +1,3 @@
 Hi! I'm Bob. I'm new here.
+
+THis is a new line on Bob.txt
